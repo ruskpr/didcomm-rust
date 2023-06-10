@@ -1,4 +1,4 @@
-[Wrapped]
+[Custom]
 typedef string JsonValue;
 
 // 1. MAIN DIDCOMM INTERFACE 
