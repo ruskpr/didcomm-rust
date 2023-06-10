@@ -38,3 +38,8 @@ DerivedData/
 
 # Cocoapods
 Pods/
+
+# Visual Studio
+bin/ 
+obj/
+.vs/
