@@ -10,6 +10,7 @@ The repository consists of the following main components:
 - [uniffi-rs](https://github.com/mozilla/uniffi-rs) - based wrappers
   - [uniffi](/uniffi) - callback-based Rust wrapper with uniffi-rs support
   - [wrappers/swift](/wrappers/swift) - Swift wrapper generated via uniffi-rs  
+  - [wrappers/dotnet](/wrappers/dotnet) - .NET wrapper generated via uniffi-rs  
 
 The docs below are provided for the main DIDComm Rust.
 
